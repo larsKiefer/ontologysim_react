@@ -26,7 +26,7 @@ install [node 14.16.1](https://nodejs.org/en/)
 4. `sudo npm install --save-dev  --unsafe-perm node-sass@4.14.0`
 5. `npm install`
 
-tested for node -v 14.16.1 & npm -v 7.11.1
+tested for node -v 16.13.1 & npm -v 7.11.1
 
 ## Docker
 install [docker + docker-compose](https://www.docker.com/products/docker-desktop)
